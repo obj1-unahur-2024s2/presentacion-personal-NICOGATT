@@ -1,35 +1,10 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# Programación con objetos I
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+# Nicolas Matias Andre Gatti
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Hola que tal? Me llamo Nicolas, o me pueden decir Nico, Pelu o Pelusa. Este es mi tercer cuatrimestre en la tecnicatura de programacion de videojuegos. 
+La verdad que me esta encantando esta carrera y la estoy disfrutando aunque a veces me frustro, por me cuesta pero siempre con esfuerzo y sacrificio se puede. 
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores alentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón y Cristian Gonzalez.
-
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+De mi parte tengo 22 años, estoy en el gym hace 3 años y me esta gustando los cambios que esta surgiendo, hice futbol, rugby, natacion, hockey. Tambien hize taekwon-do y llegue hasta 1er dan, actualmente estoy haciendo kung fu.
+Vivo con mi papa en villa luro, mi madre y mi hermana viven en San Miguel
