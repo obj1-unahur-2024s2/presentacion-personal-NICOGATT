@@ -3,7 +3,7 @@
 
 # Nicolas Matias Andre Gatti
 
-Hola que tal? Me llamo Nicolas, o me pueden decir Nico, Pelu o Pelusa. Este es mi tercer cuatrimestre en la tecnicatura de programacion de videojuegos. 
+Hola que tal? Me llamo **Nicolas**, o me pueden decir Nico, Pelu o Pelusa. Este es mi tercer cuatrimestre en la tecnicatura de programacion de videojuegos. 
 La verdad que me esta encantando esta carrera y la estoy disfrutando aunque a veces me frustro, por me cuesta pero siempre con esfuerzo y sacrificio se puede. 
 
 De mi parte tengo 22 años, estoy en el gym hace 3 años y me esta gustando los cambios que esta surgiendo, hice futbol, rugby, natacion, hockey. Tambien hize taekwon-do y llegue hasta 1er dan, actualmente estoy haciendo kung fu.
@@ -21,4 +21,7 @@ Mis gustos con la informatica o videojuegos
 3. Me gusta esta carrera me da alegria ver los progresos que voy haciendo durante la carrera, aunque me frustro me sale algunos errores pero se que son cosas que puede llegar a pasar
 
 Mi gustos en la vida cotidiana: 
-. En mi posicion me encanta hacer ejercicio, ya sea como 
+* En mi posicion me encanta hacer ejercicio, ya sea como ir al gimnasio o a kung fu
+* Me gustan las pastas, y tambien me gusta hacer asados
+* Salir con amigos o juntadas en una casa
+
